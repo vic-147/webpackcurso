@@ -106,3 +106,6 @@ dist
 .tern-port
 
 /.vscode
+
+# muestra la optimizacion de proyecto en graficos
+stats.json
